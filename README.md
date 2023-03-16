@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Google_Scholar_Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=cF8Oa7AAAAAJ&hl=en)
+[![Twitter_Badge](https://img.shields.io/twitter/follow/akhilesh_9661?style=social)](https://twitter.com/akhilesh_9661)
 
 🔭 I’m currently working on development of a generalized algorithm for aerosol optical depth retrieval over land using at-sensor signal as part of my master's thesis.
 
