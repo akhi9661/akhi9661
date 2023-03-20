@@ -7,8 +7,39 @@
 
 ## Research Experience
 
-- Junior Research Fellow (December 2017 - December 2019)
-- Senior Research Fellow (December 2019 - June 2021)
+### Masters of Technology (MTech.)
+[**Indian Institute of Remote Sensing**](https://www.iirs.gov.in/photogrammetry-and-remote-sensing-department), *Sep. 2021 - till date*
+
+- *Thesis title*: Development and evaluation of a generalized algorithm for aerosol optical depth (AOD) retrieval over land surfaces using at-sensor signal.
+
+
+### Junior Research Fellow
+[**Haldia Institute of Technology**](https://hithaldia.ac.in/civil-engineering-home/), *Dec. 2020 - June 2021*
+
+- *Project title*: Modelling Urban Sprawl Dynamics of Howrah-Kolkata Urban Agglomeration by Semi-Automated Impervious Feature Extraction Techniques Using Multi-Sensor Remotely Sensed Data. 
+- Investigated the pattern, type and extent of urban growth at the block level in Kolkata Metropolitan region.
+
+
+### Senior Research Fellow
+[**Haldia Institute of Technology**](https://hithaldia.ac.in/civil-engineering-home/), *Dec. 2019 – Dec. 2020*
+
+- *Project title*: Modeling Runoff variability and predicted runoff condition of a semi-gauged river basin of Tropical India as a response to climate change and transformed Landuse Landcover (LULC). 
+- Predicted the runoff responses in future based on predicted climate and various land use land change scenarios. 
+
+
+### Junior Research Fellow, 
+[**Haldia Institute of Technology**](https://hithaldia.ac.in/civil-engineering-home/), *Dec. 2017 – Dec. 2019*
+
+- *Project title*: Modeling Runoff variability and predicted runoff condition of a semi-gauged river basin of Tropical India as a response to climate change and transformed Landuse Landcover (LULC). 
+- Analyzed the past changes in climate and land use land cover and tracked its impact on the runoff response of the basin. 
+
+
+### Bachelor of Technology, 
+[**Haldia Institute of Technology**](https://hithaldia.ac.in/civil-engineering-home/), *Aug. 2016 – Apr. 2017*
+
+- *Thesis title*: Site Suitability and Selection for Solid Waste Management of Haldia Development Authority (HDA) region.
+- Identified potential sites for disposal of solid wastes in Haldia Development Authority region. 
+
 
 ## Academic Background 
 
