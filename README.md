@@ -2,6 +2,7 @@
 [![Google_Scholar_Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=cF8Oa7AAAAAJ&hl=en)
 [![Twitter_Badge](https://img.shields.io/twitter/follow/akhilesh_9661?style=social)](https://twitter.com/akhilesh_9661)
 [![ResearchGate Badge](https://img.shields.io/badge/ResearcGate-orange)](https://www.researchgate.net/profile/Akhilesh-Kumar-41)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akhi9661.akhi9661)
 
 🔭 I’m currently working on development of a generalized algorithm for aerosol optical depth retrieval over land using at-sensor signal as part of my master's thesis.
 
@@ -57,3 +58,8 @@
 
 - ArcGIS, Erdas Imagine, QGIS, SWAT, SWAT Cup, Climate Data Operator (CDO), Envi, SNAP
 - R, Python
+
+---
+
+<!-- ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=akhi966&show_icons=true&theme=radical) -->
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akhi9661&langs_count=3)
