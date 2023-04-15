@@ -42,7 +42,7 @@
 
 ---
 
-## Open-source projects
+## Open-source packages
 
 - [ocm2](https://github.com/akhi9661/ocm2)
 - [cross_cal_resourcesat](https://github.com/akhi9661/cross_cal_resourcesat)
