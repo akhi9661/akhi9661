@@ -5,13 +5,17 @@
 [![ResearchGate Badge](https://img.shields.io/badge/ResearcGate-orange)](https://www.researchgate.net/profile/Akhilesh-Kumar-41)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akhi9661.akhi9661)
 
-🔭 I’m currently working on development of a generalized algorithm for aerosol optical depth retrieval over land using at-sensor signal as part of my master's thesis.
+🔭 Pursuing PhD at UNSW, Sydney
 
 ---
 
 ## Research Experience
 
-### Masters of Technology (MTech.), *Sep. 2021 - till date*
+### Doctor of Philosophy (PhD), *May 2024 - till date*
+[![UNSW_Badge](https://img.shields.io/badge/UNSW-blue)](https://www.unsw.edu.au/science/our-schools/bees/about-us/our-people/postgraduate-research-students)
+
+
+### Masters of Technology (MTech.), *Sep. 2021 - Aug. 2023*
 [![IIRS_Badge](https://img.shields.io/badge/Indian_Institute_of_Remote_Sensing-blue)](https://www.iirs.gov.in/photogrammetry-and-remote-sensing-department)
 
 - *Thesis title*: Development and evaluation of a generalized algorithm for aerosol optical depth (AOD) retrieval over land surfaces using at-sensor signal.
